@@ -1,0 +1,9 @@
+#data files
+
+*.npy
+*.csv
+*.xlsx
+*.xls
+
+#model
+*.ckpt
