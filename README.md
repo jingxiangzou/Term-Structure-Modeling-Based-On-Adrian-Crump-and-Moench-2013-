@@ -1,11 +1,6 @@
-MF728 Project -- ACM Model and Term Premia
-------------------------------------------
+Term Structure Modeling Based On Adrian,Crump, and Moench(2013)
+•	Constructed US treasury yield and term premium per method from the paper
+•	Examined relations between premium and VIX via Local Regression 
+•	Generated term premia predictions using ARMA,SVR and LSTM
 
-Repository of literature\code\other documents pertaining to the MF728 group project.
 
-
-Members
--------
- - Chuyi Wang
- - Jingxiang Zou
- - Yilin Liu
